@@ -1,4 +1,4 @@
-# Kuznechik C++
+# Kuznechik C
 
 C implementation of GOST Kuznechik cipher.
 
