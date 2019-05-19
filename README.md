@@ -1,11 +1,11 @@
 # Kuznechik C++
 
-C++ implementation of GOST Kuznechik cipher.
+C implementation of GOST Kuznechik cipher.
 
 ## How to use?
 
-```c++
-// I use gcc/g++ compiler and its mean that you
+```c
+// I use gcc compiler and its mean that you
 // must include static lib libkuznec.a with linker
 
 // 1) After pev step you must include header
